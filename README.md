@@ -1,4 +1,4 @@
-# v1-162-part12
+# RAG app
 
 ## Installation
 
